@@ -362,8 +362,8 @@ def create_app():
             
             gr.HTML("""
             <div class="footer">
-                <p>🛠️ Built with ❤️ using Gradio | 🏫 Optimized for UBC schedules & similar formats</p>
-                <p>📧 Having issues? Check that your Excel file has the course data in the expected format.</p>
+                <p>🛠️ 🏫 Optimized for UBC schedules on workday </p>
+                <p>📧 Having issues? Check that your Excel file has the course data in the expected format (directly downloaded from workday).</p>
             </div>
             """)
     
